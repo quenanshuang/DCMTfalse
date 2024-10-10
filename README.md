@@ -22,3 +22,7 @@ DATA/
 2.Training
 
 python train.py
+
+3.test
+
+python eval.py
